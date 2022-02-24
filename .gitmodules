@@ -17,11 +17,11 @@
 [submodule "ADCIRC"]
 	path = ADCIRC
 	url = https://github.com/adcirc/adcirc-cg.git
-	branch = master
+	branch = v55_nuopc
 [submodule "NWM"]
 	path = NWM
 	url = https://github.com/noaa-ocs-modeling/nwm_public_nuopc.git
-	branch = master
+	branch = feature/adcirc_v55
 [submodule "PAHM"]
 	path = PAHM
 	url = https://github.com/noaa-ocs-modeling/PaHM
